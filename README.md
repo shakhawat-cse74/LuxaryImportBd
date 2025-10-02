@@ -1,5 +1,5 @@
 # Project Name
-# Admin Template
+# LuxaryImportBd
 
 ## Requirements
 - PHP >= 8.3
@@ -14,7 +14,7 @@
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
-    DB_DATABASE=admin_template
+    DB_DATABASE=luxary_importbd
     DB_USERNAME=root
     DB_PASSWORD=
     ```
